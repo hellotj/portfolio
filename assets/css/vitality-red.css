@@ -249,10 +249,10 @@ header {
     background: no-repeat center left;
     background-attachment: scroll;
     background-color: #1BBB8E;
-    -webkit-background-size: 68%;
-    -moz-background-size: 68%;
-    background-size: 68%;
-    -o-background-size: 68%;
+    -webkit-background-size: 60%;
+    -moz-background-size: 60%;
+    background-size: 60%;
+    -o-background-size: 60%;
 }
 
 header .intro-content {
@@ -282,7 +282,7 @@ header .brand-name-subtext {
 header img {
     max-height: 150px;
     max-width: 150px;
-    padding-left: 63%;
+    padding-left: 57%;
     padding-top: 20px;
 }
 

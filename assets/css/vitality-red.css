@@ -323,10 +323,10 @@ header .scroll-down .btn:hover {
         height: 100%;
         padding: 0;
         background-attachment: scroll;
-        -webkit-background-size: 80%;
-        -moz-background-size: 80%;
-        background-size: 80%;
-        -o-background-size: 80%;
+        -webkit-background-size: 70%;
+        -moz-background-size: 70%;
+        background-size: 70%;
+        -o-background-size: 70%;
     }
 
     header .intro-content {
@@ -340,7 +340,9 @@ header .scroll-down .btn:hover {
         -webkit-transform: translate(-50%,-50%);
         -ms-transform: translate(-50%,-50%);
         transform: translate(-50%,-50%);
+        padding-left: 150px;
     }
+
 
     header .brand-name {
         font-size: 35px;
